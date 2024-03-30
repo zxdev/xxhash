@@ -8,4 +8,4 @@ Sum(b []byte) uint64
 SSum(s string) uint64
 ```
 
-
+The minimalist approach is clean and consise and simple to use with no additional code overhead.
